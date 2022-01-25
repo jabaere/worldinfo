@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/worldinfo/static/css/main.2a6b565e.css",
+    "main.js": "/worldinfo/static/js/main.5c6187b5.js",
+    "static/js/787.ac61a1c2.chunk.js": "/worldinfo/static/js/787.ac61a1c2.chunk.js",
+    "index.html": "/worldinfo/index.html",
+    "main.2a6b565e.css.map": "/worldinfo/static/css/main.2a6b565e.css.map",
+    "main.5c6187b5.js.map": "/worldinfo/static/js/main.5c6187b5.js.map",
+    "787.ac61a1c2.chunk.js.map": "/worldinfo/static/js/787.ac61a1c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a6b565e.css",
+    "static/js/main.5c6187b5.js"
+  ]
+}
